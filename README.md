@@ -2,10 +2,10 @@
 [![Logo SoftUni](https://user-images.githubusercontent.com/113022603/188855109-f3fd8228-d74a-4b20-8a22-c5758a5177f7.png)](https://softuni.bg/trainings/courses)
 
 ## Certificates
-[![Java basics](https://user-images.githubusercontent.com/115355512/216789073-a9b4ce4d-13c3-4f8a-b954-038e63c49c5b.jpg)
-![Programing Fundamentals](https://user-images.githubusercontent.com/115355512/216789118-e364fad1-7882-4c70-b8e0-a3f542ecf552.jpg)
-![FundamentalsInMathematics](https://user-images.githubusercontent.com/115355512/216789129-19ae2fd6-383f-46e2-9b5c-81a06f509ae3.jpg)
-](https://softuni.bg/users/profile/certificates?username=Ikavrakov)
+[![Programing Fundamentals](https://user-images.githubusercontent.com/115355512/216789379-9958024b-a2d5-4595-acbb-0ab094374360.jpg)
+![FundamentalsInMathematics](https://user-images.githubusercontent.com/115355512/216789381-9f86a185-5196-4f74-8705-86ef1881c58d.jpg)
+![Java basics](https://user-images.githubusercontent.com/115355512/216789383-779a99b3-4d8f-49fc-9f10-b127383a6e28.jpg)](https://softuni.bg/users/profile/certificates?username=Ikavrakov)
+
 
 
 
